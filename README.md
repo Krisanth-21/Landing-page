@@ -33,7 +33,7 @@ skills by using CSS layout tools (Grid or Flexbox).
 
 ### Live website
 
-- [Visit Live Website]([https://mitp7.github.io/Fylo-LandingPage/](https://landing-page-1-mu-six.vercel.app/))
+- [Visit Live Website]([https://mitp7.github.io/Fylo-LandingPage/](https://landing-page-1-mu-six.vercel.app/])
 
 ### How to use
 
